@@ -1,6 +1,4 @@
 # Hi there 👋
-My name is
-# Marcus Harding.
 ## I build websites and applications.
 I am a developer specialising in creating solutions that delight clients and add value to businesses through cutting edge technologies.
 
